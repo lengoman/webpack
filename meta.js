@@ -32,7 +32,7 @@ module.exports = {
     },
   },
   
-  prompts: {
+  prompts2: {
     name: {
       when: 'isNotTest',
       type: 'string',
